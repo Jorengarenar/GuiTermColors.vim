@@ -1,5 +1,9 @@
-colorschemer
+gui-term-colors
 ============
+
+A fork of [colorschemer](https://github.com/jefflund/colorschemer) by [jefflund](https://github.com/jefflund)
+
+---
 
 There are a number of Vim plugins which convert a gui-only colorscheme to be
 useable with the terminal. This plugin does the opposite. This is certainly a
