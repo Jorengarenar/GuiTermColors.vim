@@ -1,4 +1,4 @@
-gui-term-colors
-============
+GuiTermColors.vim
+=================
 
-A fork of [colorschemer](https://github.com/jefflund/colorschemer) by [jefflund](https://github.com/jefflund)
+Based on [colorschemer](https://github.com/jefflund/colorschemer) by [jefflund](https://github.com/jefflund)
